@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{7BAE9C67-497F-402E-880D-714E0127A229}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Implicit_Explicit_Generics_Datetime_HW/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Implicit_Explicit_Generics_Datetime_HW/HW/Employee.cs">
     <Files>
-      <File FileName="Implicit_Explicit_Generics_Datetime_HW/Program.cs" Line="74" Column="33" />
-      <File FileName="Implicit_Explicit_Generics_Datetime_HW/HW/Employee.cs" Line="14" Column="29" />
+      <File FileName="Implicit_Explicit_Generics_Datetime_HW/Program.cs" Line="73" Column="87" />
+      <File FileName="Implicit_Explicit_Generics_Datetime_HW/HW/Employee.cs" Line="20" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
