@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Implicit_Explicit_Generics_Datetime_HW/1.0.0": {
+        "dependencies": {
+          "Service": "1.0.0"
+        },
+        "runtime": {
+          "Implicit_Explicit_Generics_Datetime_HW.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "runtime": {
+          "Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Implicit_Explicit_Generics_Datetime_HW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

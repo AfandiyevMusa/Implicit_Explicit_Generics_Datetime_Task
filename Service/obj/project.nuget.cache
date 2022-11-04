@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+NasbR9HwzfpH/IzwanPl+6NFoQkhAivnrWHyplyFCLwFy8U2Y56Yy4jMHxyH61JmSh2ERVZL6BxneLiyETC+g==",
+  "success": true,
+  "projectFilePath": "/Users/afandiyevmusa/Desktop/CodeAcademy/VisualStudio/C#-HW/Implicit_Explicit_Generics_Datetime_HW/Service/Service.csproj",
+  "expectedPackageFiles": [
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/afandiyevmusa/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
